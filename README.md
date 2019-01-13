@@ -1,3 +1,3 @@
 # hello-world
 idea repo
-Hello all, i so want to be a programmer
+Hello all, programming is awesome, and i so want to be a programmer
